@@ -11,9 +11,9 @@
 
 | Name | Role |
 |------|------|
-| Amiti Aneesh | Data Cleaning & ETL Pipeline |
+| Amiti Aneesh | Tableau Dashboard & Visualization |
 | Lakshith | Exploratory & Statistical Analysis |
-| Chanakya Shinde | Tableau Dashboard & Visualization |
+| Chanakya Sinde | Data Cleaning & ETL Pipeline |
 | Sai Praneeth Sharma | Business Insights & Final Report |
 
 > **Repository:** `capstone2` &nbsp;|&nbsp; **Domain:** E-Commerce / Retail &nbsp;|&nbsp; **Tech Stack:** Python · Tableau · GitHub
@@ -204,8 +204,8 @@ New columns derived to enrich analysis and meet the 8+ meaningful column require
 
 | Member | Contribution |
 |--------|-------------|
-| Amiti Aneesh | Data ingestion, ETL pipeline, feature engineering (`02_cleaning.ipynb`) |
-| Lakshith | EDA, trend analysis, statistical tests (`03_eda.ipynb`, `04_statistical_analysis.ipynb`) |
-| Chanakya Shinde | Tableau dashboard design, KPI computation (`05_final_load_prep.ipynb`) |
+| Amiti Aneesh | Data ingestion, Tableau dashboard design (`01_extraction.ipynb`, `05_final_load_prep.ipynb`) |
+| Lakshith | trend analysis, statistical tests, KPI computation (`04_statistical_analysis.ipynb`) |
+| Chanakya Sinde | EDA, ETL pipeline, feature engineering (`02_cleaning.ipynb`, `03_eda.ipynb`) |
 | Sai Praneeth Sharma | Business insights, recommendations, final report & presentation |
 
