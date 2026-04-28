@@ -1,4 +1,4 @@
-# 🛒 BigBasket Product Pricing & Category Analysis
+# BigBasket Product Pricing & Category Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)
