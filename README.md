@@ -10,6 +10,9 @@ Tableau Public URL - https://public.tableau.com/app/profile/aneesh.amiti/viz/big
 ---
 [Download the Tableau Workbook By Clicking , This is a twbx zip file](https://github.com/user-attachments/files/27189996/bigbasket_dashboard.twbx.zip)
 
+---
+Project final report - https://drive.google.com/file/d/13C4ZBK3ro_rEvAI2KwikGwqTJ3f9-q5G/view?usp=sharing
+
 
 ## Team
 
