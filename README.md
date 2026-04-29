@@ -6,6 +6,10 @@
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 ---
+Tableau Public URL - https://public.tableau.com/app/profile/aneesh.amiti/viz/bigbasket_dashboard/Dashboard2
+---
+[Download the Tableau Workbook By Clicking , This is a twbx zip file](https://github.com/user-attachments/files/27189996/bigbasket_dashboard.twbx.zip)
+
 
 ## Team
 
